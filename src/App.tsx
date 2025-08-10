@@ -399,7 +399,7 @@ export default function App() {
                   </div>
                   <div>
                     <h3 className="text-lg font-semibold text-text">{t("info.email")}</h3>
-                    <p className="text-text/60">contacto@ITCcode.mx</p>
+                    <p className="text-text/60">contacto@ITCcode.com</p>
                   </div>
                 </div>
 
@@ -478,7 +478,7 @@ export default function App() {
             <div className="space-y-4">
               <h3 className="text-lg font-semibold">{t("nav.contact")}</h3>
               <ul className="space-y-2 text-text/60">
-                <li>contacto@ITCcode.mx</li>
+                <li>contacto@ITCcode.com</li>
                 <li>+52 1 (662) 142-7754</li>
                 <li>Hermosillo, Sonora. México</li>
               </ul>
